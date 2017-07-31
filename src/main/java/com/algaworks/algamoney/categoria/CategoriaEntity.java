@@ -1,4 +1,4 @@
-package com.algaworks.algamoneyapi.algamoneyapi.categoria;
+package com.algaworks.algamoney.categoria;
 
 import lombok.*;
 

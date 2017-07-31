@@ -1,4 +1,4 @@
-package com.algaworks.algamoneyapi.algamoneyapi;
+package com.algaworks.algamoney;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
